@@ -1,0 +1,7 @@
+theme = "PaperMod"
+
+# Basic config
+baseURL = "https://kaelium.github.io/"
+title = "My Blog"
+languageCode = "en-us"
+paginate = 5
