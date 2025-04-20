@@ -6,4 +6,4 @@ title = 'My first post'
 
 This is Kydan's favorite dog. His name is....Doggy. Behold!
 
-![Kydan doggy](/doggy.jpg)
+![Kydan doggy](/assets/images/doggy.jpg)
