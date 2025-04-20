@@ -16,3 +16,11 @@
 3. Select the Commit & Push
 ![](/assets/tutorial/CommitAndPush.png)
 
+NOTE: Don't forget to change your page draft to `false`
+```
++++
+date = '2025-04-19T18:26:11-07:00'
+draft = false 
+title = 'Sample Page'
++++
+```
