@@ -1,6 +1,6 @@
 +++
 date = '2025-09-07T11:28:26-07:00'
-draft = true
+draft = false
 title = 'Intro'
 +++
 # heading
