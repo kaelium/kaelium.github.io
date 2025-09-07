@@ -24,3 +24,9 @@ draft = false
 title = 'Sample Page'
 +++
 ```
+
+## Local development
+1. clone repository
+2. install hugo
+3. in repo root folder run `git submodule update --init --recursive` 
+4. start server: `hugo server`
